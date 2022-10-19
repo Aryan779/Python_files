@@ -1,5 +1,7 @@
-Python Notes(not exactly) and basic programs created by me
+Python Notes(not exactly) created by me
 
-This is Jupyter notebook file
+Also, included some python projects
+
+This file also contains Jupyter notebook file 
 
 Note: Download Jupyter notebook or anaconda navigator to open this file
